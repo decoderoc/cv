@@ -70,4 +70,4 @@ I'm always eager to connect with like-minded individuals and explore new opportu
 
 Thank you for visiting my profile! I hope you enjoy exploring my work and learning more about me.
 
-![Profile Banner](https://github.com/oinamclintonsingh/profile/blob/d8ed2f3df7a3f4ba1e619bc3868e7a0960955e5d/images/Banner%20Oinam%20Clinton%20Singh%20-%20oinamclintonsingh.png)
+![Profile Banner](https://github.com/oinamclintonsingh/profile/blob/d8ed2f3df7a3f4ba1e619bc3868e7a0960955e5d/images/oinamclintonsingh%20(Oinam%20Clinton%20Singh).png)
