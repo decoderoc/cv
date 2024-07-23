@@ -1,12 +1,20 @@
 # 🌟 Welcome to My Profile Website! 🌟
 
-### Check it out here: [oinamclintonsingh.github.io/profile](https://oinamclintonsingh.github.io/profile/)
-
----
-
 ## 👋 Hello, I'm Oinam Clinton Singh!
 
 I'm thrilled to have you visit my personal profile website. This is your one-stop destination to know more about me, my projects, and my journey in the tech world.
+
+---
+
+### Desktop View
+
+![Image text](https://github.com/oinamclintonsingh/profile/blob/505991b1a57a3e54a21b633e234fb2697fcf3578/images/Oinam%20Clinton%20Singh%20-%20oinamclintonsingh.github.io.png)
+
+---
+
+## Website
+
+You can visit my website [here](https://oinamclintonsingh.github.io/Oinam-Clinton-Singh-Portfolio/).
 
 ---
 
@@ -43,11 +51,6 @@ Explore some of my most exciting projects:
 - **Technologies Used**: JavaScript, HTML, CSS.
 - **Link**: https://www.portalera.com/
 
-### [Project 2 Name]
-- **Description**: A brief description of the project.
-- **Technologies Used**: JavaScript, HTML, CSS, [Other Technologies]
-- **Link**: [Project Link]
-
 ---
 
 ## 📫 Connect with Me
@@ -67,4 +70,4 @@ I'm always eager to connect with like-minded individuals and explore new opportu
 
 Thank you for visiting my profile! I hope you enjoy exploring my work and learning more about me.
 
-![Profile Banner](images/Oinam Clinton Singh - oinamclintonsingh.github.io.png)
+![Profile Banner](https://github.com/oinamclintonsingh/profile/blob/d8ed2f3df7a3f4ba1e619bc3868e7a0960955e5d/images/Banner%20Oinam%20Clinton%20Singh%20-%20oinamclintonsingh.png)
